@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(204, 199, 132);
+  width: 500px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.name {
+  display: flex;
+}
